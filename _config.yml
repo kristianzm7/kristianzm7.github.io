@@ -1,1 +1,13 @@
-theme: jekyll-theme-architect
+title: Artemis Equine Wellness
+
+remote_theme: chrisrhymes/bulma-clean-theme
+repository: kristianzm7/kristianzm7.github.io
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      show_sidebar: false
+      hide_footer: true
+      hero_image: /assets/imgs/g21.png

@@ -1,0 +1,21 @@
+style: is-light
+height: is-small
+items:
+  - title: Services
+    subtitle: What services we offer
+    icon: fas fa-business-time
+    description: 
+    call_to_action_name: See Services
+    call_to_action_link: /services
+  - title: Benefits of EMF
+    subtitle: How an EMF session can help you
+    icon: fas fa-info-circle
+    description: 
+    call_to_action_name: See Benefits
+    call_to_action_link: /benefits
+  - title: Contact
+    subtitle: Schedule your appointment today
+    icon: fa fa-id-card
+    description:
+    call_to_action_name: See Contact Information
+    call_to_action_link: /contact
