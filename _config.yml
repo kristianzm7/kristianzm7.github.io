@@ -10,4 +10,4 @@ defaults:
     values:
       show_sidebar: false
       hide_footer: true
-      hero_image: /assets/imgs/g21.png
+      hide_hero: true

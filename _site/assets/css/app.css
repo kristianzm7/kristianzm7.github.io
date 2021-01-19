@@ -2980,4 +2980,4 @@ div.highlight { margin-bottom: 1rem; }
 
 .gh-sponsor { color: #ea4aaa; }
 
-.hero { background-size: contain; }
+.center { display: block; margin-left: auto; margin-right: auto; width: 50%; }
